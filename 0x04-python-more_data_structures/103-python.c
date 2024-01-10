@@ -3,7 +3,12 @@
 
 void print_python_bytes(PyObject *p)
 {
-    // Le code pour print_python_bytes reste inchangé
+    /**
+ * print_python_bytes - Prints bytes information
+ *
+ * @p: Python Object
+ * Return: no return
+ */
 }
 
 void print_python_list(PyObject *p)
